@@ -1,2 +1,2 @@
 # storewebsite
-Educated Design 
+Only for Git learning.
